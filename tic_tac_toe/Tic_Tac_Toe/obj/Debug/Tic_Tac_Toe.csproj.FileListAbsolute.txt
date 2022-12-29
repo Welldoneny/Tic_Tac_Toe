@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+C:\Users\Admin\Desktop\Work\C#\tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
